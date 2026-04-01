@@ -1,0 +1,14 @@
+D:\proyectos\roadMap\taskTracker\taskTracker\bin\Debug\net10.0\taskTracker.exe
+D:\proyectos\roadMap\taskTracker\taskTracker\bin\Debug\net10.0\taskTracker.deps.json
+D:\proyectos\roadMap\taskTracker\taskTracker\bin\Debug\net10.0\taskTracker.runtimeconfig.json
+D:\proyectos\roadMap\taskTracker\taskTracker\bin\Debug\net10.0\taskTracker.dll
+D:\proyectos\roadMap\taskTracker\taskTracker\bin\Debug\net10.0\taskTracker.pdb
+D:\proyectos\roadMap\taskTracker\taskTracker\obj\Debug\net10.0\taskTracker.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectos\roadMap\taskTracker\taskTracker\obj\Debug\net10.0\taskTracker.AssemblyInfoInputs.cache
+D:\proyectos\roadMap\taskTracker\taskTracker\obj\Debug\net10.0\taskTracker.AssemblyInfo.cs
+D:\proyectos\roadMap\taskTracker\taskTracker\obj\Debug\net10.0\taskTracker.csproj.CoreCompileInputs.cache
+D:\proyectos\roadMap\taskTracker\taskTracker\obj\Debug\net10.0\taskTracker.dll
+D:\proyectos\roadMap\taskTracker\taskTracker\obj\Debug\net10.0\refint\taskTracker.dll
+D:\proyectos\roadMap\taskTracker\taskTracker\obj\Debug\net10.0\taskTracker.pdb
+D:\proyectos\roadMap\taskTracker\taskTracker\obj\Debug\net10.0\taskTracker.genruntimeconfig.cache
+D:\proyectos\roadMap\taskTracker\taskTracker\obj\Debug\net10.0\ref\taskTracker.dll

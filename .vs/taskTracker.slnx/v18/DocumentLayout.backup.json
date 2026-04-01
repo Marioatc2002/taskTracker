@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\proyectos\\roadMap\\taskTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA1B1BF-8C84-4052-80FF-E72952FBA7DD}|taskTracker\\taskTracker.csproj|d:\\proyectos\\roadmap\\tasktracker\\tasktracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA1B1BF-8C84-4052-80FF-E72952FBA7DD}|taskTracker\\taskTracker.csproj|solutionrelative:tasktracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA1B1BF-8C84-4052-80FF-E72952FBA7DD}|taskTracker\\taskTracker.csproj|d:\\proyectos\\roadmap\\tasktracker\\tasktracker\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA1B1BF-8C84-4052-80FF-E72952FBA7DD}|taskTracker\\taskTracker.csproj|solutionrelative:tasktracker\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA1B1BF-8C84-4052-80FF-E72952FBA7DD}|taskTracker\\taskTracker.csproj|d:\\proyectos\\roadmap\\tasktracker\\tasktracker\\utilities\\enumstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA1B1BF-8C84-4052-80FF-E72952FBA7DD}|taskTracker\\taskTracker.csproj|solutionrelative:tasktracker\\utilities\\enumstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA1B1BF-8C84-4052-80FF-E72952FBA7DD}|taskTracker\\taskTracker.csproj|d:\\proyectos\\roadmap\\tasktracker\\tasktracker\\models\\tasko.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA1B1BF-8C84-4052-80FF-E72952FBA7DD}|taskTracker\\taskTracker.csproj|solutionrelative:tasktracker\\models\\tasko.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\proyectos\\roadMap\\taskTracker\\taskTracker\\Program.cs",
+              "RelativeDocumentMoniker": "taskTracker\\Program.cs",
+              "ToolTip": "D:\\proyectos\\roadMap\\taskTracker\\taskTracker\\Program.cs \u2B24",
+              "RelativeToolTip": "taskTracker\\Program.cs \u2B24",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T18:23:23.703Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnumStatus.cs",
+              "DocumentMoniker": "D:\\proyectos\\roadMap\\taskTracker\\taskTracker\\Utilities\\EnumStatus.cs",
+              "RelativeDocumentMoniker": "taskTracker\\Utilities\\EnumStatus.cs",
+              "ToolTip": "D:\\proyectos\\roadMap\\taskTracker\\taskTracker\\Utilities\\EnumStatus.cs",
+              "RelativeToolTip": "taskTracker\\Utilities\\EnumStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T20:52:16.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "D:\\proyectos\\roadMap\\taskTracker\\taskTracker\\Services\\TaskService.cs",
+              "RelativeDocumentMoniker": "taskTracker\\Services\\TaskService.cs",
+              "ToolTip": "D:\\proyectos\\roadMap\\taskTracker\\taskTracker\\Services\\TaskService.cs",
+              "RelativeToolTip": "taskTracker\\Services\\TaskService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T18:40:36.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskO.cs",
+              "DocumentMoniker": "D:\\proyectos\\roadMap\\taskTracker\\taskTracker\\Models\\TaskO.cs",
+              "RelativeDocumentMoniker": "taskTracker\\Models\\TaskO.cs",
+              "ToolTip": "D:\\proyectos\\roadMap\\taskTracker\\taskTracker\\Models\\TaskO.cs",
+              "RelativeToolTip": "taskTracker\\Models\\TaskO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T18:36:41.54Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
